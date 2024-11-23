@@ -1,0 +1,6 @@
+- A WHILE loop can also have an ELSE! Else will be executed if the while loop is completely completed.
+
+- DRY = Don't Repeat Yourself; always take a look at what can be saved!
+
+- if we have a "break" in our while loop, we can change the condition to True!
+
